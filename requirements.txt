@@ -1,4 +1,4 @@
-VapourSynth>=68
+VapourSynth>=55
 jetpytools>=1.2.3
 numpy>=2.0.0
 rich>=12.6.0
